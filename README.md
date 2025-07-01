@@ -73,7 +73,7 @@ This project classifies brain MRI images into four categories of tumor presence 
 * Example categories:
 
   * `glioma`, `meningioma`, `pituitary`, `notumor`
-
+![Dataset Insights](assets/sampleimage.png)
 
 
 ---
