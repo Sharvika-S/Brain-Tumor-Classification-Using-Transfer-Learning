@@ -105,15 +105,15 @@ This project classifies brain MRI images into four categories of tumor presence 
 
 📈 Accuracy Curves
 Training vs Validation Accuracy for All Models
-![Accuracy_Curves](assets/webimages/Accuracy.png)
+![Accuracy_Curves](assets/Accuracy.png)
 
 🔍 Confusion Matrices
 Visualize classification performance and misclassifications:
-![Confusion_Matrices](assets/webimages/ConfusionMatrices.png)
+![Confusion_Matrices](assets/ConfusionMatrices.png)
 
 📊 Metrics Comparison
 Bar chart comparing Accuracy, F1, Precision, Recall, and AUC across models:
-![Metrics_Comparison](assets/webimages/MetricsComparison.png)
+![Metrics_Comparison](assets/MetricsComparison.png)
 
 ---
 
