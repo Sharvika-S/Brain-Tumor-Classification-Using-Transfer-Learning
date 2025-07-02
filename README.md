@@ -1,7 +1,6 @@
 
 
-
-# 🧠 Brain Tumor Classification Using Transfer Learning
+# 🧠 Comparative-Analysis-of-Transfer-Learning-Models-for-Brain-Tumor-Classification
 
 This project classifies brain MRI images into four categories of tumor presence using deep learning and pretrained models like **VGG16**, **ResNet50**, **InceptionV3**, and **MobileNetV2**. It uses **TensorFlow/Keras**, **Google Colab**, and a well-structured dataset sourced from brain tumor MRI images.
 
